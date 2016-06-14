@@ -1,0 +1,4 @@
+G:\代码存放\ASP.NET代码存放\htmlWeb\htmlWeb\bin\Debug\htmlWeb.dll
+G:\代码存放\ASP.NET代码存放\htmlWeb\htmlWeb\bin\Debug\htmlWeb.pdb
+G:\代码存放\ASP.NET代码存放\htmlWeb\htmlWeb\obj\Debug\htmlWeb.dll
+G:\代码存放\ASP.NET代码存放\htmlWeb\htmlWeb\obj\Debug\htmlWeb.pdb

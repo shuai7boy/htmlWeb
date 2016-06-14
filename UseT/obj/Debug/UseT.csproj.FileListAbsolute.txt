@@ -1,0 +1,7 @@
+G:\代码存放\ASP.NET代码存放\htmlWeb\UseT\bin\UseT.dll
+G:\代码存放\ASP.NET代码存放\htmlWeb\UseT\bin\UseT.pdb
+G:\代码存放\ASP.NET代码存放\htmlWeb\UseT\obj\Debug\UseT.dll
+G:\代码存放\ASP.NET代码存放\htmlWeb\UseT\obj\Debug\UseT.pdb
+G:\代码存放\ASP.NET代码存放\htmlWeb\UseT\bin\htmlWeb.dll
+G:\代码存放\ASP.NET代码存放\htmlWeb\UseT\bin\htmlWeb.pdb
+G:\代码存放\ASP.NET代码存放\htmlWeb\UseT\obj\Debug\UseT.csprojResolveAssemblyReference.cache

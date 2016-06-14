@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "htmlWeb", "htmlWeb\htmlWeb.csproj", "{9F397DC6-1DC3-4D53-B939-3C35C64DCE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseT", "UseT\UseT.csproj", "{39C55314-BEEF-4A62-8D33-A51CDD0231AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F397DC6-1DC3-4D53-B939-3C35C64DCE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F397DC6-1DC3-4D53-B939-3C35C64DCE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F397DC6-1DC3-4D53-B939-3C35C64DCE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F397DC6-1DC3-4D53-B939-3C35C64DCE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C55314-BEEF-4A62-8D33-A51CDD0231AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C55314-BEEF-4A62-8D33-A51CDD0231AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C55314-BEEF-4A62-8D33-A51CDD0231AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C55314-BEEF-4A62-8D33-A51CDD0231AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

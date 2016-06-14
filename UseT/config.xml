@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<htmlWeb version="1">
+    <config>
+       <article key="0" value="title"/>
+      <article key="1" value="author"/>
+      <article key="2" value="content"/>
+      <article key="3" value="data"/>
+  </config>
+ 
+</htmlWeb>
